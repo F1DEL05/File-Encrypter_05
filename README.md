@@ -13,7 +13,7 @@ Usage of Ransomware
               :::::::Decrypting::::::
 when you run "encrypter.py ; the python script creates a "key.key" file in the same folder ; you need this file for decrypting . 
 
-[+] For Decrypting , you must put "decrypter.py" and "key.key" file in the same folder . And you must run the "decrypter.py" file for decrypting
+[+] For Decrypting , you must put "decrypter.py" and "key.key" file to same folder . And you must run the "decrypter.py" file for decrypting
 
 -----------------------------------------------------------------
 
