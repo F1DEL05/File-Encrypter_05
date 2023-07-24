@@ -21,7 +21,6 @@ This Script must use for educational purposes , Please do not use it maliciously
 
 -F1DEL
 
-:::::Contact:::::: 
-
-    Discord: f1del_05
+               :::::Contact:::::: 
+Discord: f1del_05
 
