@@ -1,5 +1,4 @@
 # Ransomware_by_f1del
-This repository for maded only educational purposes
 ------------------------------------------------------------
 Usage of Ransomware
 
@@ -21,3 +20,8 @@ when you run "encrypter.py ; the python script creates a "key.key" file in the s
 This Script must use for educational purposes , Please do not use it maliciously :d
 
 -F1DEL
+
+:::::Contact:::::: 
+
+    Discord: f1del_05
+
