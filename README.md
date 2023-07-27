@@ -1,6 +1,6 @@
-# Ransomware_by_f1del
+# File_Encrypter_by_f1del
 ------------------------------------------------------------
-Usage of Ransomware
+Usage of File Encrypter
 
 
 
